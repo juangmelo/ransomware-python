@@ -1,0 +1,1 @@
+Esse arquivo servirá como teste para criptografar e descriptografar o conteúdo
